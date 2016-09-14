@@ -1,6 +1,7 @@
 /**
  * Created by Jason on 14/09/2016.
  */
+//print some OS information by invoking os API
 const os = require('os');
 
 console.log('\nhostname:\n-----------------');
